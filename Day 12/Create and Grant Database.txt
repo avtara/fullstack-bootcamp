@@ -1,0 +1,4 @@
+postgres=# CREATE DATABASE alta_online_shop;
+CREATE DATABASE
+postgres=# GRANT ALL PRIVILEGES ON DATABASE alta_online_shop TO avtara;
+GRANT
